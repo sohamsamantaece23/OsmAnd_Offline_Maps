@@ -6,4 +6,4 @@ Currently Available Country : Japan
 
 Steps :
 1. Clone the whole repository.
-2. Go to  and extract net.osmand-4.9.10.zip
+2. Go to OsmAnd/Android_app and extract net.osmand-4.9.10.zip
